@@ -27,7 +27,7 @@
 		<commons-compress>1.5</commons-compress>
 		<commons-discovery>0.2</commons-discovery>
 		<commons-digester>1.8</commons-digester>
-		<commons-collections>3.2</commons-collections>
+		<commons-collections>3.2.2</commons-collections>
 		<commons-fileupload>1.3.1</commons-fileupload>
 		<commons-io>2.2</commons-io>
 		<commons-net>3.2</commons-net>
