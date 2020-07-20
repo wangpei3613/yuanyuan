@@ -1,0 +1,27 @@
+.sen-header{
+	background: #4692c7;
+}
+.sen-footer{
+	
+}
+.sen-header-center li.active,.sen-header-center li:hover{
+	background: #76baea;
+}
+body .layui-layer-title,.sen-layer-skin-msg {
+	background: #4692c7;
+	color: #fff;
+}
+body .layui-layer-btn .layui-layer-btn0 {
+    border-color: #4692c7;
+    background-color: #4692c7;
+}
+body .sen-layer-skin-msg{
+	background: #4692c7;
+    color: #fff;
+}
+.sen-sidebar a{
+	color: #000;
+}
+fieldset,.sen-view-table td,.sen-border {
+	border: 1px solid #ddd;
+}

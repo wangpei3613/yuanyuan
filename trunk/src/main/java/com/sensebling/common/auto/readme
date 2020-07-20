@@ -1,0 +1,5 @@
+自动生成后台controller、entity、service代码。
+
+
+使用方法：
+	执行Index.java的main方法。执行请先配置参数。

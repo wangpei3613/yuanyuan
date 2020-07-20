@@ -1,0 +1,14 @@
+{
+	"Android":{
+		"transportTz":{
+			"versionCode":0,
+			"path":""
+		}
+	},
+	"iOS":{
+		"transportTz":{
+			"versionCode":0,
+			"path":""
+		}
+	}
+}

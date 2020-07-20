@@ -1,0 +1,177 @@
+/*-------------------------------------------------------
+ All Rights Reserved, Copyright (C) 2013, Wuyeguo, Ltd.
+-------------------------------------------------------*/
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	overflow: hidden;
+	font-size: 12px;
+}
+
+a, a:link {
+	text-decoration: none;
+	outline: none;
+}
+
+/* a:hover, a:focus {
+	text-decoration: none;
+	color: #39f;
+} */
+
+.pd3 {
+	padding: 3px;
+}
+
+.pd5 {
+	padding: 5px;
+}
+
+.pd10 {
+	padding: 10px;
+}
+
+label, button, input, select, textarea {
+	font-size: 12px;
+	vertical-align: middle;
+}
+
+input, button, select, textarea {
+	font: 12px/1.2em Microsoft YaHei;
+}
+
+select, button, input[type="button"], input[type="reset"], input[type="submit"],
+	input[type="radio"], input[type="checkbox"] {
+	cursor: pointer;
+}
+
+.tabs-tool {
+	border-top: 0;
+}
+
+.sen-text, .sen-textarea {
+	padding: 3px;
+	border: 1px #95b8e7 solid;
+	width: 260px;
+}
+
+.sen-text {
+	height: 14px;
+	line-height: 14px;
+}
+
+.sen-header {
+	height: 55px;
+	position: relative;
+	z-index: 0;
+	overflow: hidden;
+	/* border-bottom: 1px #95b8e7 solid; */
+	/* background:url(../images/bg_header.jpg) bottom repeat-x; 
+	/* background: #ce9900; */
+	/* background: #484a4c; */
+}
+
+.sen-header-left {
+	position: absolute;
+	z-index: 1;
+	left: 15px;
+	top: 0;
+}
+
+.sen-header-left h1 {
+	font: 20px/20px Verdana;
+	color: #fff;
+}
+
+.sen-header-right {
+	position: absolute;
+	z-index: 1;
+	right: 5px;
+	top: 0;
+	color: #fff;
+	text-align: right;
+}
+
+.sen-header-right p {
+	line-height: 0.7em;
+}
+
+.sen-header-right a {
+	color: #fff;
+	margin: 0 5px;
+}
+.sen-header-center{
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	color: #fff;
+	left: 200px;
+	bottom: 0;
+	font-size: 14px;
+}
+.sen-header-center ul{
+	list-style: none;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.sen-header-center li{
+	float: left;
+    padding: 16px 20px;
+    cursor: pointer;
+}
+.sen-header-center span:first-child{
+	display: inline-block;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    overflow: hidden;
+}
+.sen-header-center li.active,.sen-header-center li:hover{
+	/* background: #578ff7; */
+	/* background: #ffc214; */
+	/* background: #84909c; */
+}
+.sen-sidebar {
+	width: 200px;
+}
+
+.sen-side-tree .tree-node {
+	padding: 3px 0px;
+}
+
+.sen-side-tree a {
+	display: block;
+}
+
+.sen-side-tree .tree-node-selected {
+	padding: 2px 0;
+	border: 1px #fade23 solid;
+}
+
+.sen-toolbar-button, .sen-toolbar-search {
+	padding: 3px 5px;
+}
+
+.sen-footer {
+	height: 20px;
+	padding: 5px;
+	text-align: center;
+	overflow: hidden;
+	/* background: #e0ecff; */
+	/* background: #f1e4bf; */
+	/* background: #c7ccd1; */
+}
+.sen-hidden{
+	display: none;
+}
+.sen-noscroll>.panel-body{
+	overflow: hidden;
+}
+.sen-theme{
+	position: absolute;
+    right: 5px;
+    top: 4px;
+}

@@ -1,0 +1,30 @@
+.sen-header{
+	background: #1b7aca;
+}
+.sen-footer{
+	
+}
+.sen-header-center li.active,.sen-header-center li:hover{
+	background: #6baef6;
+}
+body .layui-layer-title,.sen-layer-skin-msg {
+	background: #1b7aca;
+	color: #fff;
+}
+body .layui-layer-btn .layui-layer-btn0 {
+    border-color: #1b7aca;
+    background-color: #1b7aca;
+}
+body .sen-layer-skin-msg{
+	background: #1b7aca;
+    color: #fff;
+}
+.sen-sidebar a{
+	color: #000;
+}
+fieldset,.sen-view-table td,.sen-border {
+	border: 1px solid #c3d9e0;
+}
+.tree-node-selected a{
+	color: #fff;
+}
