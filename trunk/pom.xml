@@ -31,7 +31,7 @@
 		<commons-fileupload>1.3.1</commons-fileupload>
 		<commons-io>2.2</commons-io>
 		<commons-net>3.2</commons-net>
-		<ant.version>1.8.4</ant.version>
+		<ant.version>1.10.9</ant.version>
 		<log4j.version>1.2.16</log4j.version>
 		<cglib-nodep.version>2.1_3</cglib-nodep.version>
 		<dom4j.version>1.6.1</dom4j.version>
