@@ -12,7 +12,7 @@
 	<properties>
 		<spring.version>4.3.11.RELEASE</spring.version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
-		<hibernate.validator.version>5.1.1.Final</hibernate.validator.version>
+		<hibernate.validator.version>6.0.23.Final</hibernate.validator.version>
 		<hibernate-jpa-2.1-api>1.0.0.Final</hibernate-jpa-2.1-api>
 		<c3p0.version>0.9.5.2</c3p0.version>
 		<db2jcc.version>db2jcc4</db2jcc.version>
